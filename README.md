@@ -9,7 +9,9 @@
 
 > <h3 align="left"><strong>About me:</strong></h3>
 > 
-> <p>&nbsp;&nbsp;Under construction...</p>
+> <p>&nbsp;&nbsp;I grew up as a curious child since I can remember, and I have always found all kinds of knowledge to be interesting and exciting, and managed to learn a lot of different things through my years. This huge information patchwork that I have collected brings me experiences that I lived, both good and bad, about listening to people, personal and work relationships, team working, resilience and more.</p>
+> <p>&nbsp;&nbsp;Recently I have rediscovered a passion for technology, which I have always considered as a tool, since I have had access to computers from childhood as my father was an enthusiast. With this new passion I committed to live this new life, quitting my job as a salesperson and jumping head on this new career.
+</p>
 
 </div>
 
